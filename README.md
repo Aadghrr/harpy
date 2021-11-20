@@ -31,3 +31,4 @@ Using pytest for testing, run with ./run_tests.sh
 Features to add:  
 * Anomaly detection
 * Prettify printing
+* Repeating session
