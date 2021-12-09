@@ -1,6 +1,6 @@
 ## HTTP ARchive File Reader
 
-HAR.py is a CLI tool to allow users to inspect and replay HTTP browsing sessions.  
+HAR.py is a CLI tool to allow users to inspect and replay HTTP browsing sessions by analysing HTTP ARchive files.  
 
 ## How to get a HAR file
 
